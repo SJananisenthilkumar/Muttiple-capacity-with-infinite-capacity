@@ -20,7 +20,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Experiment:
 
 
-## Program
+## 
+```
 Developed by : Janani S
 Register number : 23013409
 import math
@@ -54,7 +55,7 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
-
+```
 ## Output :
 ![Screenshot 2023-12-14 191038](https://github.com/SJananisenthilkumar/Muttiple-capacity-with-infinite-capacity/assets/144871139/f967a64b-99b1-4e9e-820d-6318c53a5ff1)
 
